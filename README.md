@@ -9,7 +9,7 @@
 
 <h1 align="center">rbxflags</h1>
 
-<h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
+<h4 align="center">Join the Discord Server for early access FastFlags before they publish</h4>
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
